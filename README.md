@@ -11,10 +11,16 @@ Essas instruções farão com que você tenha uma cópia do projeto em execuçã
 Clone o projeto com o comando:
 
 ```
-git clone 
+git clone https://github.com/leonardom/express-api-demo
 ```
 
 ### Instalar dependências
+
+Entre no diretório da aplicação:
+
+```
+cd express-api-demo
+```
 
 Instale as depedencias do projeto executando o comando abaixo dentro do diretório do projeto:
 
